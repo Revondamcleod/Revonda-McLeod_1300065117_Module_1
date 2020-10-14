@@ -18,7 +18,7 @@ include "includes/header.php";
         echo '<h1>My name is:'.$name.'</h1>';
  
     ?>
-    <button type="button" class="btn btn-primary">Primary</button>
+ <button type="button" class="btn btn-primary">Primary</button>
 <button type="button" class="btn btn-secondary">Secondary</button>
 <button type="button" class="btn btn-success">Success</button>
 <button type="button" class="btn btn-danger">Danger</button>
