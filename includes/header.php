@@ -10,7 +10,7 @@
 
 <body>
 <div class="container">
-    <h2>Follow each link to the page</h2>
+    <h2>SELECT PAGE LINK</h2>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <a class="navbar-brand" href="#">Revonda Assignment 1</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -18,15 +18,15 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
-      <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+      <a class="nav-item nav-link active" href="index.php">Home <span class="sr-only">(current)</span></a>
       <a class="nav-item nav-link"  href = "dateTimeManupilation.php">DATE TIME MANUPILATION</a>
-      <a class="nav-item nav-link"  href = "arrays.php">SIMPLE ARRAYS</a>
-      <a class="nav-item nav-link" href = "forLoops.php">SIMPLE FOR LOOPS</a>
-      <a class="nav-item nav-link" href = "functions.php">SIMPLE FUNCTIONS</a>
-      <a class="nav-item nav-link"  href = "ifstatement.php">SIMPLE IF STATEMENTS</a>
-      <a class="nav-item nav-link"   href = "stringManupilations.php">SIMPLE MANUPILAATIONS</a>
-      <a class="nav-item nav-link" href = "switchstatement.php">SIMPLE SWITCH STATEMENT</a>
-      <a class="nav-item nav-link" href = "whileDowhileLoops.php">SIMPLE DO WHILE STATEMENT</a>
+      <a class="nav-item nav-link"  href = "arrays.php">ARRAYS</a>
+      <a class="nav-item nav-link" href = "forLoops.php">FOR LOOPS</a>
+      <a class="nav-item nav-link" href = "functions.php">FUNCTIONS</a>
+      <a class="nav-item nav-link"  href = "ifstatement.php">IF STATEMENTS</a>
+      <a class="nav-item nav-link"   href = "stringManupilations.php">MANUPILATIONS</a>
+      <a class="nav-item nav-link" href = "switchstatement.php">SWITCH STATEMENT</a>
+      <a class="nav-item nav-link" href = "whileDowhileLoops.php">DO WHILE STATEMENT</a>
       <a class="nav-item nav-link disabled" href="#">Disabled</a>
     </div>
   </div>
